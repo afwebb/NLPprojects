@@ -1,3 +1,3 @@
-# textSummarization
+# NLP Projects
 
-Quick project to summarize the content of wikipedia articles. Inputs a topic name and outputs a text summarization of the topic.
+A few side projects related to using NLP in python
